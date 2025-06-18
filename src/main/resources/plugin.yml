@@ -1,0 +1,5 @@
+name: XP-Placeholder
+version: '0.0.1'
+main: org.Petrichor2_.XPPlaceholder.XPPlaceholder
+api-version: '1.21'
+authors: [ Petrichor2_ ]
